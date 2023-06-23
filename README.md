@@ -1,6 +1,6 @@
 #Basic Calculator
 
 * Functions
-   *Add
-   *Sub
-   *Mul
+   * Add
+   * Sub
+   * Mul
